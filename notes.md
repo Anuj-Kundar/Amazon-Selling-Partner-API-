@@ -60,5 +60,13 @@ Once you've completed Step 2, navigate to the IAM user you just created by click
 
  Here we are Done configuring IAM and can ignore steps 3-5 of Amazon's guide on registering your SP API application.
 
+ Authorize Selling Partner API application
+ ================================================
+ [Refer Docs](https://developer-docs.amazon.com/sp-api/docs/authorizing-selling-partner-api-applications)
+
+ Connecting to Selling Partner API
+================================================
+Use this PHP client library [docs](https://github.com/jlevers/selling-partner-api#setup)
+
 
 

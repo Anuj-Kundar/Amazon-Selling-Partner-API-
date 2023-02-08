@@ -43,16 +43,16 @@ Once you've completed Step 2, navigate to the IAM user you just created by click
 2.  Select the **JSON** tab
 3.  Paste the following JSON into the editor:
 ```json
-    {
-        "Version": "2012-10-17",
-        "Statement": \[
-            {
-                "Effect": "Allow",
-                "Action": "execute-api:Invoke",
-                "Resource": "arn:aws:execute-api:\*:\*:\*"
-            }
-        \]
-    }
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": "execute-api:Invoke",
+            "Resource": "arn:aws:execute-api:*:*:*"
+        }
+    ]
+}
 ```
     
 4.  Click **Review Policy**, and name your policy .

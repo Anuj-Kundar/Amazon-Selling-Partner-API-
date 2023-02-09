@@ -68,5 +68,8 @@ Once you've completed Step 2, navigate to the IAM user you just created by click
 ================================================
 Use this PHP client library [docs](https://github.com/jlevers/selling-partner-api#setup)
 
+[access sp api](https://www.highsidelabs.co/blog/selling-partner-api-access)
+[How to use Selling Partner API PHP library ](https://www.highsidelabs.co/blog/spapi-php-library)
+
 
 
